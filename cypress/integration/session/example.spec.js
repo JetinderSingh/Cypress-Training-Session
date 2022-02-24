@@ -9,6 +9,7 @@ describe('Session Example', function () {
         //cy.get('[for="radio_1"]').check('Yes');
         //cy.get(':nth-child(1) > .check').check('Prpoposal');
         //cy.get(':nth-child(2) > .check').check('Abstract');
+        //jetinder
         cy.get('button').click();
     });
 });
